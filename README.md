@@ -4,13 +4,12 @@ I am a third year UBC Electrical Engineering student eager to grow his skill set
 I am passionate about creating a more sustainable world and am fascinated by the endless amount of problems you can solve using software. 
 
 ### 🧑‍💻 Currently...
-Creating my personal website (nearly done)
-Working on a new personal project
-Developer [@UBCLaunchPad](https://ubclaunchpad.com/) 🚀
+Creating my personal website (nearly done)<br />
+Working on a new personal project<br />
+Developer [@UBCLaunchPad](https://ubclaunchpad.com/) 🚀<br />
 
 ### 🔮 What's next...
-As I've been working on my first Flutter project with LaunchPad, I want to keep improving my Flutter competencies
-
+As I've been working on my first Flutter project with LaunchPad, I want to keep improving my Flutter competencies<br />
 Dabble into my first iOS Project
 <!--
 **AlexLassooij/AlexLassooij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
