@@ -10,6 +10,7 @@ Developer [@UBCLaunchPad](https://ubclaunchpad.com/) 🚀
 
 ### 🔮 What's next...
 As I've been working on my first Flutter project with LaunchPad, I want to keep improving my Flutter competencies
+
 Dabble into my first iOS Project
 <!--
 **AlexLassooij/AlexLassooij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
