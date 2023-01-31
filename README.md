@@ -1,16 +1,15 @@
 ### Hi, I'm Alex 👋
 
-I am a third year UBC Electrical Engineering student eager to grow his skill set to bring about positive change in our little world 🌎.
+I am a fourth year Electrical Engineering student at UBC keen on growing my skillset to provide a helping hand to projects that benefit our day to day lives 🌎.
 I am passionate about creating a more sustainable world and am fascinated by the endless amount of problems you can solve using software. 
 
 ### 🧑‍💻 Currently...
-Creating my personal website (nearly done)<br />
-Working on a new personal project<br />
-Developer [@UBCLaunchPad](https://ubclaunchpad.com/) 🚀<br />
+Ideating a new project to experiment with TensorFlow 
+Back in school after returning from an 8-month Co-op [@Kardium Inc.](https://kardium.com)<br />
+Looking for Summer 2023 internships ☀️<br />
 
 ### 🔮 What's next...
-As I've been working on my first Flutter project with LaunchPad, I want to keep improving my Flutter competencies<br />
-Dabble into my first iOS Project
+I plan on learning the foundations of machine learning and apply my knowledge to a related role in the near future. To help me along my journey, I intend to pursue a Minor in Data Science at UBC<br />
 <!--
 **AlexLassooij/AlexLassooij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
