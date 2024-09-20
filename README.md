@@ -1,15 +1,15 @@
 ### Hi, I'm Alex 👋
 
-I am a fourth year Electrical Engineering student at UBC keen on growing my skillset to provide a helping hand to projects that benefit our day to day lives 🌎.
-I am passionate about creating a more sustainable world and am fascinated by the endless amount of problems you can solve using software. 
+I am in my final year at UBC studying Electrical Engineering with a Minor in Data Science. I am passionate about applications of technology in the fields of healthcare and sustainability, and have made it a point to continuously teach myself new skills and learn about the latest developments in technology. 📈
 
 ### 🧑‍💻 Currently...
-Ideating a new project to experiment with TensorFlow 
-Back in school after returning from an 8-month Co-op [@Kardium Inc.](https://kardium.com)<br />
-Looking for Summer 2023 internships ☀️<br />
+Interning as a Fullstack Developer at [Selkirk Innovates](https://selkirk.ca/about-selkirk/selkirk-innovates)<br/> 
+Participating in UBC's New Venture Design ([NVD](https://nvd.ubc.ca/)) program<br/>
+Looking for a 2025 New Grad placement as a SW, ML or Data Engineer ☀️<br />
 
 ### 🔮 What's next...
-I plan on learning the foundations of machine learning and apply my knowledge to a related role in the near future. To help me along my journey, I intend to pursue a Minor in Data Science at UBC<br />
+I plan on expanding my skillset by picking up best-practices and important tools ML Engineers need to deploy ML models and make them useful.<br/>
+Additionally, I intend to refurbish some old personal projects by improving their architecture, adding documentation and allowing others to interact with them.<br/>
 <!--
 **AlexLassooij/AlexLassooij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
