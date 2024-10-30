@@ -5,7 +5,7 @@ I am in my final year at UBC studying Electrical Engineering with a Minor in Dat
 ### 🧑‍💻 Currently...
 Interning as a Fullstack Developer at [Selkirk Innovates](https://selkirk.ca/about-selkirk/selkirk-innovates)<br/> 
 Participating in UBC's New Venture Design ([NVD](https://nvd.ubc.ca/)) program<br/>
-Looking for a 2025 New Grad placement as a SW, ML or Data Engineer ☀️<br />
+Looking for a 2025 New Grad (or 2025 Summer Internship) placement as a SW, ML or Data Engineer ☀️<br />
 
 ### 🔮 What's next...
 I plan on expanding my skillset by picking up best-practices and important tools ML Engineers need to deploy ML models and make them useful.<br/>
